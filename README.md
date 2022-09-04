@@ -10,12 +10,9 @@
 ##### Languages that I've already learned
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-##### Fun fact: The code for automatic car
-```java
-if (goingToCrash) {
-    dont();
-}
-```
+![HTML](https://img.shields.io/badge/-Html-000000?style=flat&logo=Html)
+![CSS](https://img.shields.io/badge/-Css-000000?style=flat&logo=Css)
+
 
 <!--
 **Ponynie/Ponynie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
