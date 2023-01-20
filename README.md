@@ -6,7 +6,7 @@
 - 🏫 I’m a second year university student
 - :test_tube: I'm an expert in Popular science
 - 🎓 I'm a science communicator
-- 📫 Reach me by email: [6434461423@student.chula.ac.th](mailto:6434461423@student.chula.ac.th).
+- 📫 Reach me by email: [P.Raqsaboon@icloud.com](mailto:p.raqsaboon@icloud.com).
 ##### Languages that I've already learned
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
