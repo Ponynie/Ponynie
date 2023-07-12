@@ -1,6 +1,6 @@
-### Hey, I'm Ponynie 👋
+### Hey, I'm EarthCq - Phichaphop Raqsaboon 👋
 ![](OpeningManim_ManimCE_v0.15.2.gif)
-<p><em>A bachelor student at <a href="https://www.chula.ac.th/">Chulalongkorn university</a>, majoring in Computer Science. 😊</br>
+<p><em>A bachelor student at <a href="https://www.chula.ac.th/">Chulalongkorn university</a>, majoring in Computer Science. 🥺 </br>
 </em></p>
 
 - 🏫 I’m a third year university student
