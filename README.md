@@ -1,4 +1,4 @@
-### Hey, I'm Ponynie - Phichaphop Raqsaboon 👋
+### Hey, I'm Phichaphop Raqsaboon 👋
 ![](OpeningManim_ManimCE_v0.15.2.gif)
 <p><em>A bachelor student at <a href="https://www.chula.ac.th/">Chulalongkorn university</a>, majoring in Computer Science. 🥺 </br>
 </em></p>
