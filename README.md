@@ -3,7 +3,6 @@
 </em></p>
 
 - 🏫 I’m a third year university student
-- :test_tube: I'm an expert in popular science
 - 📫 Reach me by email: [p.raqsaboon@icloud.com](mailto:p.raqsaboon@icloud.com)
 ##### Languages & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
